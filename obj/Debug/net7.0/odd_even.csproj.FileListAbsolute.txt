@@ -1,0 +1,14 @@
+/Users/lisa/Documents/code/csharp/odd_even/bin/Debug/net7.0/odd_even
+/Users/lisa/Documents/code/csharp/odd_even/bin/Debug/net7.0/odd_even.deps.json
+/Users/lisa/Documents/code/csharp/odd_even/bin/Debug/net7.0/odd_even.runtimeconfig.json
+/Users/lisa/Documents/code/csharp/odd_even/bin/Debug/net7.0/odd_even.dll
+/Users/lisa/Documents/code/csharp/odd_even/bin/Debug/net7.0/odd_even.pdb
+/Users/lisa/Documents/code/csharp/odd_even/obj/Debug/net7.0/odd_even.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lisa/Documents/code/csharp/odd_even/obj/Debug/net7.0/odd_even.AssemblyInfoInputs.cache
+/Users/lisa/Documents/code/csharp/odd_even/obj/Debug/net7.0/odd_even.AssemblyInfo.cs
+/Users/lisa/Documents/code/csharp/odd_even/obj/Debug/net7.0/odd_even.csproj.CoreCompileInputs.cache
+/Users/lisa/Documents/code/csharp/odd_even/obj/Debug/net7.0/odd_even.dll
+/Users/lisa/Documents/code/csharp/odd_even/obj/Debug/net7.0/refint/odd_even.dll
+/Users/lisa/Documents/code/csharp/odd_even/obj/Debug/net7.0/odd_even.pdb
+/Users/lisa/Documents/code/csharp/odd_even/obj/Debug/net7.0/odd_even.genruntimeconfig.cache
+/Users/lisa/Documents/code/csharp/odd_even/obj/Debug/net7.0/ref/odd_even.dll
